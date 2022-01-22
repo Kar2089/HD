@@ -1,0 +1,5 @@
+# df['Sex'].replace({'M':1 , 'F': 0}, inplace = True)
+# df['ChestPainType'].replace({"ASY":0, 'NAP':1, 'ATA':2, 'TA':3}, inplace = True)
+# df['RestingECG'].replace({"Normal":0, 'LVH':1, 'ST':2}, inplace = True)
+# df['ExerciseAngina'].replace({"N":0, 'Y':1}, inplace = True)
+# df['ST_Slope'].replace({"Flat":0, 'Up':1, 'Down':2}, inplace = True)
